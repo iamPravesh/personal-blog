@@ -2,6 +2,13 @@
 It is a web application that allow a user to add delete and remove posts(considered as blog as in scope of this application)
 It is a simple CRUD application.
 
+#tech used
+  MERN full stack
+  MongoDB
+  Express JS
+  React JS
+  Node JS
+
 #limitation
   user authentication is not available as of yet
  
