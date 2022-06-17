@@ -17,7 +17,7 @@ It is a simple CRUD application.
   
  #in backend directory
   run "npm install" to install the dependencies
-  add .env file and add your mongodb connection url as MOONGODB_URI = "your_connection_string" in .env file
+  add .env file and add your mongodb connection url as MONGODB_URI = "your_connection_string" in .env file
   run "npm start" to start the server
   server runs on port 5000(you can change that inside index.js file)
   
